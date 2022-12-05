@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "title": "New task",
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Check email",
+        "time": "0:20h",
+        "type": "green"
+      },
+      {
+        "id": 2,
+        "title": "Compare PPC agencies and make a report for Steven",
+        "time": "3:00h",
+        "type": "blue"
+      },
+      {
+        "id": 3,
+        "title": "Meeting with Amanda (PR department)",
+        "time": "0:30h",
+        "type": "green"
+      },
+      {
+        "id": 4,
+        "title": "Get Patrick's approval for homepage new design",
+        "time": "0:20h",
+        "type": "blue"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Scheduled",
+    "tasks": [
+      {
+        "id": 5,
+        "title": "Check email",
+        "time": "0:20h",
+        "type": "peach"
+      },
+      {
+        "id": 6,
+        "title": "Write a blogpost \"7 best strategies for SEO in 2020\"",
+        "time": "5:00h",
+        "type": "orange"
+      },
+      {
+        "id": 7,
+        "title": "New Ad copies for Manamaja",
+        "time": "2:00h",
+        "type": "khaki"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "In progress",
+    "tasks": [
+      {
+        "id": 8,
+        "title": "Check email",
+        "time": "0:20h",
+        "type": "peach"
+      },
+      {
+        "id": 9,
+        "title": "Record a video comment about last week's analytics report",
+        "time": "0:20h",
+        "type": "pink"
+      },
+      {
+        "id": 10,
+        "title": "Process all resumes for Content Marketer position",
+        "time": "1:00h",
+        "type": "peach"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Completed",
+    "completed": true,
+    "tasks": [
+      {
+        "id": 11,
+        "title": "Check email",
+        "time": "0:20h",
+        "type": "blue"
+      },
+      {
+        "id": 12,
+        "title": "Weekly planning session",
+        "time": "0:45h",
+        "type": "blue"
+      },
+      {
+        "id": 13,
+        "title": "Create 5+ target audiences in Facebook for Samsung ...",
+        "time": "2:30h",
+        "type": "blue"
+      },
+      {
+        "id": 14,
+        "title": "Check FB Banner Design and give feedback",
+        "time": "0:20h",
+        "type": "blue"
+      },
+      {
+        "id": 15,
+        "title": "Check email",
+        "time": "0:20h",
+        "type": "blue"
+      }
+    ]
+  }
+]

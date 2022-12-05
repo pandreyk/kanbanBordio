@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "ui-kit/*": ["./ui-kit/*"],
+      "hooks/*": ["./hooks/*"],
+      "modules/*": ["./modules/*"],
+      "types/*": ["./types/*"],
+      "constants/*": ["./constants/*"]
+    }
+  }
+}

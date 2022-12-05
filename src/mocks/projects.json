@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Favorites",
+    "names": ["Marketing", "Mobile App"]
+  },
+  {
+    "id": 2,
+    "title": "My Projects",
+    "names": [
+      "Marketing",
+      "Landing Pages",
+      "Wedding",
+      "Mobile App",
+      "House Construction"
+    ]
+  }
+]

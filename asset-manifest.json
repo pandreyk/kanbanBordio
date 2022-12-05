@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/kanbanBordio/static/css/main.d2488473.chunk.css",
+    "main.js": "/kanbanBordio/static/js/main.3b129286.chunk.js",
+    "main.js.map": "/kanbanBordio/static/js/main.3b129286.chunk.js.map",
+    "runtime-main.js": "/kanbanBordio/static/js/runtime-main.9d0a4060.js",
+    "runtime-main.js.map": "/kanbanBordio/static/js/runtime-main.9d0a4060.js.map",
+    "static/js/2.c62b83a4.chunk.js": "/kanbanBordio/static/js/2.c62b83a4.chunk.js",
+    "static/js/2.c62b83a4.chunk.js.map": "/kanbanBordio/static/js/2.c62b83a4.chunk.js.map",
+    "index.html": "/kanbanBordio/index.html",
+    "static/css/main.d2488473.chunk.css.map": "/kanbanBordio/static/css/main.d2488473.chunk.css.map",
+    "static/js/2.c62b83a4.chunk.js.LICENSE.txt": "/kanbanBordio/static/js/2.c62b83a4.chunk.js.LICENSE.txt",
+    "static/media/arrow.6812fbda.svg": "/kanbanBordio/static/media/arrow.6812fbda.svg",
+    "static/media/avatar-thumb.d21eeccb.svg": "/kanbanBordio/static/media/avatar-thumb.d21eeccb.svg",
+    "static/media/bell.b055bb4e.svg": "/kanbanBordio/static/media/bell.b055bb4e.svg",
+    "static/media/calendar.0bbc7c1f.svg": "/kanbanBordio/static/media/calendar.0bbc7c1f.svg",
+    "static/media/file.5a58f531.svg": "/kanbanBordio/static/media/file.5a58f531.svg",
+    "static/media/logo.af5d8aae.svg": "/kanbanBordio/static/media/logo.af5d8aae.svg",
+    "static/media/note.010eef73.svg": "/kanbanBordio/static/media/note.010eef73.svg",
+    "static/media/plus.7ad5192e.svg": "/kanbanBordio/static/media/plus.7ad5192e.svg",
+    "static/media/roadmap.e6afb424.svg": "/kanbanBordio/static/media/roadmap.e6afb424.svg",
+    "static/media/search.54c221a7.svg": "/kanbanBordio/static/media/search.54c221a7.svg",
+    "static/media/task.e1910ea2.svg": "/kanbanBordio/static/media/task.e1910ea2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d0a4060.js",
+    "static/js/2.c62b83a4.chunk.js",
+    "static/css/main.d2488473.chunk.css",
+    "static/js/main.3b129286.chunk.js"
+  ]
+}
